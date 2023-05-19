@@ -9,7 +9,9 @@ redirect_from:
 
 #Julien_Bezancon_CV.pdf
 
-{% include base_path %}
+<object data="{{ site.url }}{{ site.baseurl }}/files/Julien_Bezancon_CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+
+<!--{% include base_path %}
 
 Education
 ======
@@ -58,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->

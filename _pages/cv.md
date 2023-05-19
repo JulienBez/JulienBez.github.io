@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+#Julien_Bezancon_CV.pdf
+
 {% include base_path %}
 
 Education

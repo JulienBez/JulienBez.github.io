@@ -2,7 +2,7 @@
 title: "Reconnaissance de défigements dans des tweets en français par similarité d'alignements textuels"
 collection: publications
 permalink: /publication/TALN_2023_defigement
-excerpt: 'Recognition of unfrozen expressions in french tweets using similarity measures'
+excerpt: #'Recognition of unfrozen expressions in french tweets using similarity measures'
 date: 2023-10-01
 venue: 'TALN'
 paperurl: 'http://julienbez.github.io/files/TALN_2023_defigement.pdf'

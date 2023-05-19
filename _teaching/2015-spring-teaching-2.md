@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Language engineering course"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/language_engineering_course
+venue: "Sorbonne University"
+date: 2023-01-01
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+About this course
 ======
 
-Heading 2
-======
+I was a teaching assistant for this language engineering course, given by [Gaël Lejeune](https://www.lejeunegael.fr/), for 1 year.
 
-Heading 3
-======
+The goal of the course is to introduce students to automatic language processing using tools such as Antconc and TXM. This course also gives us the opportunity to teach them the basics of XML and some regular expressions.
+

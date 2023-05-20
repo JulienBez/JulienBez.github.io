@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Phd student in NLP at Sorbonne University"
+excerpt: "PhD student in NLP at Sorbonne University"
 author_profile: true
 redirect_from: 
   - /about/

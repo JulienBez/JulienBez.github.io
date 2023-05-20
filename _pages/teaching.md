@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
@@ -11,18 +11,30 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
+<<<<<<< Updated upstream
 # Cours de base de données (2023 - )
 
 *Undergraduate course* - Paris, France
 
+=======
+
+
+# Cours de base de données (2023 - )
+
+*Undergraduate course* - Paris, France \
+>>>>>>> Stashed changes
 hourly volume : 24 (last updated in 2023). [Course material](https://members.loria.fr/KFort/teaching/sorbonne/) by Karën Fort.
 
 ---
 
 # Cours d'ingénierie des langues (2023 - )
 
+<<<<<<< Updated upstream
 *Undergraduate course* - Paris, France
 
+=======
+*Undergraduate course* - Paris, France \
+>>>>>>> Stashed changes
 hourly volume : 41 (last updated in 2023).
 
 <!-- ajouter CM que j'ai fait ? demander Gaël -->

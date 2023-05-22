@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
+---
+
 ## 2023
 
 
@@ -33,4 +35,4 @@ author_profile: true
 
 ## 2021
 
-* Master thesis : Création d’un corpus de stéréotypes du français et évaluation des biais des modèles de langue existants. Supervised by Karën Fort, Aurélie Névéol and Yoann Dupond, 2021. <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/files/Julien_Bezancon_CV.pdf"> → </a> <br> <br>
+* Master thesis : Création d’un corpus de stéréotypes du français et évaluation des biais des modèles de langue existants. Supervised by Karën Fort, Aurélie Névéol and Yoann Dupond, 2021. <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/files/master_thesis.pdf"> → </a> <br> <br>

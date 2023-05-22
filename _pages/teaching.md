@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
+---
+
 ## Base de données (2023 - )
 
 *Undergraduate course* - Paris, France \

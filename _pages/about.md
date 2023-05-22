@@ -13,7 +13,7 @@ PhD student in NLP at Sorbonne University since 2022, I work on the automatic re
 Interests
 ======
 
-For the moment, I am interested in the nature of the exchanges between computer science and language science. Like many people, I think that these two disciplines have a lot to contribute to each other.  This is one of the lines of thought of my doctorate : Can we imagine that by a virtuous circle phenomenon, automated processing can refine the linguistic description at the same time as it allows to adjust the computer tools ? 
+For the moment, I am interested in the nature of the exchanges between computer science and language science. Like many people, I think that these two disciplines have a lot to contribute to each other.  This is one of the lines of thought of my PhD : Can we imagine that by a virtuous circle phenomenon, automated processing can refine the linguistic description at the same time as it allows to adjust the computer tools ? 
 
 What's new
 ======

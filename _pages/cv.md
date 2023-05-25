@@ -20,8 +20,8 @@ redirect_from:
 ## Education
 
 * PhD candidate in NLP, Sorbonne University, now
-* Master's degree in computer science and linguistic, Sorbonne University, 2022
-* Bachelor's degree in language science, Sorbonne University, 2020
+* Master's degree in Computer Science and Language, Sorbonne University, 2022
+* Bachelor's degree in Language Science, Sorbonne University, 2020
 
 ---
 

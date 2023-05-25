@@ -19,7 +19,9 @@ author_profile: true
 
 ## 2023
 
+* Bezançon, J., Lejeune G. (2022). Reconnaissance de défigements dans des tweets en français par similarité d'alignements textuels. (TBP)
 
+* Bezançon, J. and al. (2022). SPQR@Deft2023: Résolution automatique de QCM médicaux à partir de corpus de domaine et de mesures de similarité. (TBP)
 
 ---
 

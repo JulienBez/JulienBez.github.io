@@ -18,5 +18,6 @@ For the moment, I am interested in the nature of the exchanges between computer 
 What's new
 ======
 
+- june 8, 2023 : I presented my article at TALN 2023
 - may 17, 2023 : I created this website
 

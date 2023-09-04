@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in NLP at Sorbonne University since 2022, I work on the automatic recognition of unfrozen expressions. After obtaining my master's degree in Computer Science and Language at Sorbonne University, I decided to start a PhD under the supervision of [Gaël Lejeune](https://www.lejeunegael.fr/), [Antoine Gautier](https://sites.google.com/site/antoinegautier1/enseignements) and [Gilles Siouffi](https://lettres.sorbonne-universite.fr/personnes/gilles-siouffi).
+PhD student in NLP at Sorbonne University since 2022, I work on the automatic recognition of unfrozen expressions. After obtaining my master's degree in Computer Science and Language at Sorbonne University, I decided to start a PhD under the supervision of [Gaël Lejeune](https://www.lejeunegael.fr/), [Antoine Gautier](https://sup.sorbonne-universite.fr/auteur/antoine-gautier) and [Gilles Siouffi](https://lettres.sorbonne-universite.fr/personnes/gilles-siouffi).
 
 Interests
 ======
@@ -18,6 +18,7 @@ For the moment, I am interested in the nature of the exchanges between computer 
 What's new
 ======
 
+- june 12, 2023 : ETAL 2023 !
 - june 8, 2023 : I presented my article at TALN 2023
 - may 17, 2023 : I created this website
 

@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/CV.pdf" width="1000" height="1000" type="application/pdf"></object>
+<!--<object data="{{ site.url }}{{ site.baseurl }}/files/CV.pdf" width="1000" height="1000" type="application/pdf"></object>-->
 
 <object data="{{ site.url }}{{ site.baseurl }}/files/CV.pdf" type="application/pdf" width="1000" height="1430"> 
   <p>It appears you don't have a PDF plugin for this browser. You can click <a href="{{ site.url }}{{ site.baseurl }}/files/CV.pdf">  here</a> to download my resume. </p>  

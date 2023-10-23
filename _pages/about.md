@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in NLP at Sorbonne University since 2022, I work on the automatic recognition of unfrozen expressions. After obtaining my master's degree in Computer Science and Language at Sorbonne University, I decided to start a PhD under the supervision of [Gaël Lejeune](https://www.lejeunegael.fr/), [Antoine Gautier](https://sup.sorbonne-universite.fr/auteur/antoine-gautier) and [Gilles Siouffi](https://lettres.sorbonne-universite.fr/personnes/gilles-siouffi).
+PhD student in NLP at Sorbonne University since 2022. After obtaining my master's degree in Computer Science and Language at Sorbonne University, I decided to start my PhD under the supervision of [Gaël Lejeune](https://www.lejeunegael.fr/), [Antoine Gautier](https://www.linkedin.com/in/antoinegautier/?originalSubdomain=fr) and [Gilles Siouffi](https://lettres.sorbonne-universite.fr/personnes/gilles-siouffi). I work on the automatic recognition of unfrozen expressions.
 
 Interests
 ======
 
-For the moment, I am interested in the nature of the exchanges between computer science and language science. Like many people, I think that these two disciplines have a lot to contribute to each other.  This is one of the lines of thought of my PhD : Can we imagine that by a virtuous circle phenomenon, automated processing can refine the linguistic description at the same time as it allows to adjust the computer tools ? 
+Right now, I'm interested in the nature of the exchanges between computer science and language science. Like many people, I think that these two disciplines have a lot to contribute to each other. This is one of the lines of thought of my PhD : Can we imagine that by a virtuous circle phenomenon, automated processing can refine the linguistic description at the same time as it allows to adjust the computer tools ? 
 
 What's new
 ======

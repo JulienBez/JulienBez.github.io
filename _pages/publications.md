@@ -19,9 +19,9 @@ author_profile: true
 
 ## 2023
 
-* Bezançon, J., Lejeune G. (2022). Reconnaissance de défigements dans des tweets en français par similarité d'alignements textuels. <a target="_blank" href="https://hal.science/hal-04130174/"> → </a> <br> <br>
+* Bezançon, J., Lejeune G. (2023). Reconnaissance de défigements dans des tweets en français par similarité d'alignements textuels. <a target="_blank" href="https://hal.science/hal-04130174/"> → </a> <br> <br>
 
-* Bezançon, J. and al. (2022). SPQR@Deft2023: Résolution automatique de QCM médicaux à partir de corpus de domaine et de mesures de similarité. <a target="_blank" href="https://hal.science/hal-04131579/"> → </a> <br> <br>
+* Bezançon, J. and al. (2023). SPQR@Deft2023: Résolution automatique de QCM médicaux à partir de corpus de domaine et de mesures de similarité. <a target="_blank" href="https://hal.science/hal-04131579/"> → </a> <br> <br>
 
 ---
 

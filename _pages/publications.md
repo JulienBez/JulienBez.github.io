@@ -19,9 +19,9 @@ author_profile: true
 
 ## 2023
 
-* Bezançon, J., Lejeune G. (2023). Reconnaissance de défigements dans des tweets en français par similarité d'alignements textuels. <a target="_blank" href="https://hal.science/hal-04130174/"> → </a> <br> <br>
+* Bezançon, J., & Lejeune, G. (2023). Reconnaissance de défigements dans des tweets en français par des mesures de similarité sur des alignements textuels. In 18e Conférence en Recherche d’Information et Applications – 16e Rencontres Jeunes Chercheurs en RI – 30e Conférence sur le Traitement Automatique des Langues Naturelles – 25e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (pp. 56–67). <a target="_blank" href="https://hal.science/hal-04130174/"> → </a> <br> <br>
 
-* Bezançon, J. and al. (2023). SPQR@Deft2023: Résolution automatique de QCM médicaux à partir de corpus de domaine et de mesures de similarité. <a target="_blank" href="https://hal.science/hal-04131579/"> → </a> <br> <br>
+* Bezançon, J. and al. (2023). SPQR@Deft2023: Similarité Sorbonne Pour les Systèmes de Question Réponse. In 18e Conférence en Recherche d’Information et Applications – 16e Rencontres Jeunes Chercheurs en RI – 30e Conférence sur le Traitement Automatique des Langues Naturelles – 25e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (pp. 11–22).<a target="_blank" href="https://hal.science/hal-04131579/"> → </a> <br> <br>
 
 ---
 

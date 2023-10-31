@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Website"
+title: "About me"
 excerpt: "PhD student in NLP at Sorbonne University"
 author_profile: true
 redirect_from: 
@@ -15,12 +15,7 @@ Interests
 
 Right now, I'm interested in the nature of the exchanges between computer science and language science. Like many people, I think that these two disciplines have a lot to contribute to each other. This is one of the lines of thought of my PhD : Can we imagine that by a virtuous circle phenomenon, automated processing can refine the linguistic description at the same time as it allows to adjust the computer tools ?
 
-My phd subject led me to study Multiword Expressions (MWEs) processing in NLP. I'm particularly invested into Unfrozen Multiword Expressions (UMWEs), which represent extreme cases of MWEs variations. Here are some notable UMWEs I came across :
-
-- Merci de laisser l’Etat dans les toilettes où vous l’avez trouvé (Please leave the state in the toilet where you found it)
-- Mangez 5 riches et légumes par jour (eat 5 richs and vegetables a day)
-- Conflit de connards (Asshole conflict)
-- Mieux vaut tarte que navet (Better pie than turnip)
+My phd subject led me to study Multiword Expressions (MWEs) processing in NLP. I'm particularly interested in Unfrozen Multiword Expressions (UMWEs), which can be described as extreme cases of MWEs variations. What's not to love about a process that can transform a famous recipe like *duck confit* into an *asshole conflict*, or a famous advertising slogans like *eat 5 fruits and vegetables a day* into *eat 5 richs and vegetables a day* ?
 
 What's new
 ======

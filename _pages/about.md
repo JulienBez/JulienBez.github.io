@@ -17,10 +17,13 @@ Right now, I'm interested in the nature of the exchanges between computer scienc
 
 My phd subject led me to study Multiword Expressions (MWEs) processing in NLP. I'm particularly interested in Unfrozen Multiword Expressions (UMWEs), which can be described as extreme cases of MWEs variations. What's not to love about a process that can transform a famous recipe like *duck confit* into an *asshole conflict*, or notorious advertising slogans like *eat 5 fruits and vegetables a day* into *eat 5 richs and vegetables a day* ?
 
+At the moment, we are working on [le Défricheur](https://defricheur.marceau-h.fr/), a gamified annotation platform to help annotate UMWEs in our tweets dataset. As for now, this platform is only available in French.
+
 What's new
 ======
 
-- june 12, 2023 : ETAL 2023 !
+- april 30, 2024 : [le Défricheur](https://defricheur.marceau-h.fr/) is now online
+- june 12, 2023 : ETAL 2023
 - june 8, 2023 : I presented my article at TALN 2023
 - may 17, 2023 : I created this website
 

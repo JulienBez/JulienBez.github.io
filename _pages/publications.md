@@ -17,6 +17,12 @@ author_profile: true
 
 ---
 
+## 2024
+
+* Karen Fort, Laura Alonso Alemany, Luciana Benotti, Julien Bezançon, Claudia Borg, Marthese Borg, Yongjian Chen, Fanny Ducel, Yoann Dupont, Guido Ivetta, Zhijian Li, Margot Mieskes, Marco Naguib, Yuyan Qian, Matteo Radaelli, Wolfgang S. Schmeisser-Nieto, Emma Raimundo Schulz, Thiziri Saci, Sarah Saidi, Javier Torroba Marchante, Shilin Xie, Sergio E. Zanotto, and Aurélie Névéol. Your Stereotypical Mileage May Vary: Practical Challenges of Evaluating Biases in Multiple Languages and Cultural Contexts. In Nicoletta Calzolari, Min-Yen Kan, Veronique Hoste, Alessandro Lenci, Sakriani Sakti, and Nianwen Xue, editors, Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 17764–17769, Torino, Italia, mai 2024. ELRA and ICCL <a target="_blank" href="https://aclanthology.org/2024.lrec-main.1545/"> → </a> <br> <br>
+
+---
+
 ## 2023
 
 * Julien Bezançon and Gaël Lejeune. Reconnaissance de défigements dans des tweets en français par des mesures de similarité sur des alignements textuels. In Christophe Servan and Anne Vilnat, editors, 18e Conférence en Recherche d’Information et Applications – 16e Rencontres Jeunes Chercheurs en RI – 30e Conférence sur le Traitement Automatique des Langues Naturelles – 25e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues, pages 56–67, Paris, France, 2023. ATALA. <a target="_blank" href="https://hal.science/hal-04130174/"> → </a> <br> <br>

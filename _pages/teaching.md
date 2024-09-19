@@ -23,14 +23,14 @@ hourly volume : 10 (last updated in 2023). Course material by Christian Vincent.
 ## Base de données (2023 - )
 
 *Undergraduate course* - Paris, France \
-hourly volume : 24 (last updated in 2023). [Course material](https://members.loria.fr/KFort/teaching/sorbonne/) by Karën Fort.
+hourly volume : 48 (last updated in 2023). [Course material](https://members.loria.fr/KFort/teaching/sorbonne/) by Karën Fort.
 
 ---
 
 ## Ingénierie des langues (2023 - )
 
 *Undergraduate course* - Paris, France \
-hourly volume : 41 (last updated in 2023). Course material by Gaël Lejeune.
+hourly volume : 72 (last updated in 2023). Course material by Gaël Lejeune.
 
 <!-- ajouter CM que j'ai fait ? demander Gaël -->
 
